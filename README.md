@@ -46,5 +46,5 @@ BookSearch는 카카오 도서 API를 이용해 도서 검색하는는 앱입니
         
 ## APK File
 ```
-bin/BookSearchapk
+bin/BookSearch.apk
 ```
