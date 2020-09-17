@@ -42,7 +42,6 @@ BookSearch는 카카오 도서 API를 이용해 도서 검색하는는 앱입니
         - Thumbnail image AsyncTask 비동기 방식으로 URL Stream 처리
         - 오류 처리 추가
     4. Code Refactoring
-        - 도서 검색 REST-API Retrofit으로 변경
         - Thumbnail image load Glide로 변경
         
 ## APK File
