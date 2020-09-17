@@ -9,8 +9,9 @@ BookSearch는 카카오 도서 API를 이용해 도서 검색하는는 앱입니
 * [Retrofit](http://square.github.io/retrofit/) for Http API
 * [Glide](https://github.com/bumptech/glide/) for Glide
 
-## Requirement
-* Android Studio
+## Environment
+* macOS Catalina 10.15.3
+* Android Studio 4.0.1
 
 ## How to
 1. 요구사항 정리
