@@ -30,7 +30,7 @@ BookSearch는 카카오 도서 API를 이용해 도서 검색하는는 앱입니
         - 비동기 통신 방법
         - 카카오 REST API 사용 방법
 
-3. 개발 및 테스트 반복
+3. 개발 및 테스트
     1. 메인 리스트와 상세 화면 Fragment 구현
         - 상세 화면 이동 및 뒤로가기 구현
     2. kakao developers 가입 및 도서 검색 REST-API 테스트
@@ -41,6 +41,9 @@ BookSearch는 카카오 도서 API를 이용해 도서 검색하는는 앱입니
         - 예외 처리 추가
     4. Code Refactoring
         - Thumbnail image load Glide로 변경
+    5. Phone Test
+        - Galaxy S10+, Android ver 10
+        - Galaxy Wide2, Android ver 9
         
 ## APK File
 ```
