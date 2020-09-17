@@ -5,8 +5,6 @@ BookSearch는 카카오 도서 API를 이용해 도서 검색하는는 앱입니
 
 
 ## Dependencies
-* [OkHttp](http://square.github.io/okhttp/) for Http connections
-* [Retrofit](http://square.github.io/retrofit/) for Http API
 * [Glide](https://github.com/bumptech/glide/) for Glide
 
 ## Environment
@@ -40,7 +38,7 @@ BookSearch는 카카오 도서 API를 이용해 도서 검색하는는 앱입니
     3. REST-API 비동기 통신 구현
         - 도서 검색 Thread/Handler 비동기 방식으로 HttpURLConnecttion 처리
         - Thumbnail image AsyncTask 비동기 방식으로 URL Stream 처리
-        - 오류 처리 추가
+        - 예외 처리 추가
     4. Code Refactoring
         - Thumbnail image load Glide로 변경
         
