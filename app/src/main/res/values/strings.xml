@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">도서검색</string>
+    <string name="detail_name">상세화면</string>
+    <string name="back">이전</string>
+    <string name="book_name">도서명</string>
+    <string name="search">검색</string>
+    <string name="data_not_found">조회 결과가 없습니다.</string>
+    <string name="fail_image_download">이미지 다운로드가 실패하였습니다.</string>
+</resources>
