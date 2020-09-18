@@ -1,7 +1,7 @@
 # BookSearch
 > BookSearch Android version (by Kotlin)
 
-BookSearch는 카카오 도서 API를 이용해 도서 검색하는는 앱입니다.
+BookSearch는 카카오 도서 API를 이용해 도서 검색하는 앱입니다.
 
 
 ## Dependencies
